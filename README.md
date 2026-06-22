@@ -25,14 +25,14 @@ Draw in the air with your dominant hand and manipulate your creations in real-ti
 
 ## 🎮 Gesture Manual
 
-### ✍️ Drawing Hand (Right Hand)
+## ✍️ Drawing Hand (Right Hand)
 | Gesture | Action |
 |---|---|
 | ☝️ **Index Up** | Start drawing a stroke |
 | 🤏 **Pinch** | Selective eraser (intersects with fingertip path) |
 | ✊ **Fist** | Clear the entire canvas |
 
-### 🖐️ Control Hand (Left Hand)
+## 🖐️ Control Hand (Left Hand)
 | Gesture | Action | Visual Feedback |
 |---|---|---|
 | ✌️ **Two Fingers** | **Move** nearest stroke | Blue crosshair + glow |
